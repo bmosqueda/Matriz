@@ -1,0 +1,10 @@
+c:\users\brand\source\repos\Matriz\Matriz\bin\Debug\Matriz.exe.config
+c:\users\brand\source\repos\Matriz\Matriz\bin\Debug\Matriz.exe
+c:\users\brand\source\repos\Matriz\Matriz\bin\Debug\Matriz.pdb
+c:\users\brand\source\repos\Matriz\Matriz\obj\Debug\Matriz.csprojResolveAssemblyReference.cache
+c:\users\brand\source\repos\Matriz\Matriz\obj\Debug\Matriz.Form1.resources
+c:\users\brand\source\repos\Matriz\Matriz\obj\Debug\Matriz.Properties.Resources.resources
+c:\users\brand\source\repos\Matriz\Matriz\obj\Debug\Matriz.csproj.GenerateResource.Cache
+c:\users\brand\source\repos\Matriz\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+c:\users\brand\source\repos\Matriz\Matriz\obj\Debug\Matriz.exe
+c:\users\brand\source\repos\Matriz\Matriz\obj\Debug\Matriz.pdb
